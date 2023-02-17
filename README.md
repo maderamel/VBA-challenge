@@ -2,7 +2,7 @@
 Module 2 Challenge - Stock Analysis
 
 ## Objectives
-The overall objective of this assignment was to use VBA scripting to analyze give stock market data.
+The overall objective of this assignment was to use VBA scripting to analyze given stock market data.
 
 This code needed to:
     1. Loop through the data to find the Yearly Change, Percent Change, and Total Stock Volume for each ticker. 
