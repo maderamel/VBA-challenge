@@ -19,7 +19,7 @@ This code needed to:
 
 **2018**
 
-![This is a screenshot of the Multiple Year Stock Data after the VBA code was ran on sheet 2018] (Screenshots/Multiple_Year_Stock_Data_Result_Screenshot.png)
+![This is a screenshot of the Multiple Year Stock Data after the VBA code was ran on sheet 2018] (https://github.com/maderamel/VBA-challenge/blob/40daeed0c0c034165b6880d4b0800f36346d7490/Screenshots/Multiple_Year_Stock_Data_Result_Screenshot.png)
 
 **2019**
 ![This is a screenshot of the Multiple Year Stock Data after the VBA code was ran on the 2019 sheet] (https://github.com/maderamel/VBA-challenge/blob/40daeed0c0c034165b6880d4b0800f36346d7490/Screenshots/Multiple_Year_Stock_Data_2019.png)
